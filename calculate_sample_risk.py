@@ -3,7 +3,7 @@
 Calculate the total ARG risk score for each metagenomic sample.
 
 Usage:
-    python calculate_sample_risk_english.py \
+    python calculate_sample_risk.py \
         --risk risk_scores.tsv \
         --abundance abundance_matrix.tsv \
         [--output output.tsv] \
